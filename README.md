@@ -46,4 +46,4 @@ source: ecg, fitbit, o2ring, and signals, the details are as follow:
 
 Please cite the following paper when using our dataset:
 
-Jingye Xu, Yuntong Zhang, "A comprehensive PPG-based dataset for HR/HRV studies." ICHI 2025
+Jingye Xu, Yuntong Zhang, Wei Wang, Mimi Xie, Dakai Zhu. "A comprehensive PPG-based dataset for HR/HRV studies." 2025 IEEE 13th International Conference on Healthcare Informatics (ICHI)
