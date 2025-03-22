@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+preprocess/
+preprocess.zip
+
+.DS_Store
+dataset.zip
+dataset/
